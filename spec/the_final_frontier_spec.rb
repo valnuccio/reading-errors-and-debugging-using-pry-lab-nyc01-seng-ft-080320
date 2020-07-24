@@ -6,4 +6,3 @@ describe "the_final_frontier" do
   end
 end
 
-the_final_frontier[]
