@@ -5,3 +5,5 @@ describe "the_final_frontier" do
     expect{ engage }.to output(/Captain's Log, star date /).to_stdout
   end
 end
+
+the_final_frontier[]
