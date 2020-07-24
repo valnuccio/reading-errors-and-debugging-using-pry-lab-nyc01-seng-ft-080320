@@ -10,6 +10,6 @@ def state_log(star_date)
 end
 
 
-def engage[generate_star_date, state_log]
+def engage(generate_star_date, state_log)
   puts state_log(generate_star_date)
 end
